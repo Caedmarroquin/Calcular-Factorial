@@ -1,0 +1,14 @@
+c:\users\familia marroquín\documents\visual studio 2013\Projects\Ejercicio 08-08-2022\Ejercicio 08-08-2022\bin\Debug\Ejercicio 08-08-2022.exe.config
+c:\users\familia marroquín\documents\visual studio 2013\Projects\Ejercicio 08-08-2022\Ejercicio 08-08-2022\bin\Debug\Ejercicio 08-08-2022.exe
+c:\users\familia marroquín\documents\visual studio 2013\Projects\Ejercicio 08-08-2022\Ejercicio 08-08-2022\bin\Debug\Ejercicio 08-08-2022.pdb
+c:\users\familia marroquín\documents\visual studio 2013\Projects\Ejercicio 08-08-2022\Ejercicio 08-08-2022\bin\Debug\Ejercicio 08-08-2022.xml
+c:\users\familia marroquín\documents\visual studio 2013\Projects\Ejercicio 08-08-2022\Ejercicio 08-08-2022\obj\Debug\Ejercicio_08_08_2022.Form1.resources
+c:\users\familia marroquín\documents\visual studio 2013\Projects\Ejercicio 08-08-2022\Ejercicio 08-08-2022\obj\Debug\Ejercicio_08_08_2022.Resources.resources
+c:\users\familia marroquín\documents\visual studio 2013\Projects\Ejercicio 08-08-2022\Ejercicio 08-08-2022\obj\Debug\Ejercicio 08-08-2022.vbproj.GenerateResource.Cache
+c:\users\familia marroquín\documents\visual studio 2013\Projects\Ejercicio 08-08-2022\Ejercicio 08-08-2022\obj\Debug\Ejercicio 08-08-2022.exe
+c:\users\familia marroquín\documents\visual studio 2013\Projects\Ejercicio 08-08-2022\Ejercicio 08-08-2022\obj\Debug\Ejercicio 08-08-2022.xml
+c:\users\familia marroquín\documents\visual studio 2013\Projects\Ejercicio 08-08-2022\Ejercicio 08-08-2022\obj\Debug\Ejercicio 08-08-2022.pdb
+C:\Users\Familia Marroquín\Documents\Visual Studio 2013\Projects\Ejercicio 08-08-2022 (Calcular factorial-grafico)\Ejercicio 08-08-2022\bin\Debug\Ejercicio 08-08-2022.exe.config
+C:\Users\Familia Marroquín\Documents\Visual Studio 2013\Projects\Ejercicio 08-08-2022 (Calcular factorial-grafico)\Ejercicio 08-08-2022\obj\Debug\Ejercicio 08-08-2022.exe
+C:\Users\Familia Marroquín\Documents\Visual Studio 2013\Projects\Ejercicio 08-08-2022 (Calcular factorial-grafico)\Ejercicio 08-08-2022\obj\Debug\Ejercicio 08-08-2022.xml
+C:\Users\Familia Marroquín\Documents\Visual Studio 2013\Projects\Ejercicio 08-08-2022 (Calcular factorial-grafico)\Ejercicio 08-08-2022\obj\Debug\Ejercicio 08-08-2022.pdb
